@@ -41,12 +41,6 @@ Sistema web completo con API REST y frontend SPA.
 
 ---
 
-## 📊 Estadísticas
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=gervertp&show_icons=true&theme=default&locale=es)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=gervertp&layout=compact&theme=default&locale=es)
-
 ---
 
 ## 📫 Contacto
