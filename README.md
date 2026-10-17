@@ -13,7 +13,7 @@ Me enfoco en la implementación e integración de funcionalidades web, conexión
 **Desarrollo de software**  
 **Abril 2026 – Actualidad**
 
-- Implementación e integración de funcionalidades Full Stack para los módulos de **Radiología, Patología y Trabajo Social** de una plataforma de gestión clínica.
+- Implementación e integración de funcionalidades Full Stack en una plataforma de gestión clínica.
 - Desarrollo actual de funcionalidades para el **módulo de Calidad** de una plataforma integral de gestión logística.
 - Trabajo con **Angular, TypeScript, Spring Boot, PostgreSQL, Git y Postman**.
 - Uso de estructuras backend con **DTO, Controller, Service, Repository y JPA/Hibernate**.
