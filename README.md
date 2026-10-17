@@ -2,7 +2,7 @@
 
 ## Full Stack Developer Junior
 
-Desarrollador Full Stack Junior con enfoque principal en **Java, Spring Boot, Angular y PostgreSQL**. Actualmente trabajo en **PartnerTech**, participando en el desarrollo de aplicaciones empresariales para los sectores salud y logística.
+Desarrollador Full Stack Junior con enfoque principal en **Java, Spring Boot, Angular y PostgreSQL**. Actualmente trabajo en desarrollo de software empresarial, participando en aplicaciones para los sectores salud y logística.
 
 Me enfoco en la implementación e integración de funcionalidades web, conexión entre frontend y backend, desarrollo y consumo de APIs REST, persistencia de datos y trabajo con arquitecturas y patrones existentes del proyecto.
 
@@ -10,11 +10,11 @@ Me enfoco en la implementación e integración de funcionalidades web, conexión
 
 ## 💼 Experiencia actual
 
-**PartnerTech — Desarrollo de software**  
+**Desarrollo de software**  
 **Abril 2026 – Actualidad**
 
 - Implementación e integración de funcionalidades Full Stack para los módulos de **Radiología, Patología y Trabajo Social** de una plataforma de gestión clínica.
-- Desarrollo actual de funcionalidades para el **módulo de Calidad de Athena Logistics**, plataforma integral de gestión logística.
+- Desarrollo actual de funcionalidades para el **módulo de Calidad** de una plataforma integral de gestión logística.
 - Trabajo con **Angular, TypeScript, Spring Boot, PostgreSQL, Git y Postman**.
 - Uso de estructuras backend con **DTO, Controller, Service, Repository y JPA/Hibernate**.
 - Gestión de cambios mediante ramas Git y validación de servicios y endpoints antes de su integración.
